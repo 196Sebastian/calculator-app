@@ -17,5 +17,6 @@
     <string name="btnCLR">CLR</string>
     <string name="Plus">+</string>
     <string name="Equal">=</string>
+    <string name="Dot">.</string>
 
 </resources>
